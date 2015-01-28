@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cities>
+  <calctime>0.0742</calctime>
+  <count>1</count>
+  <mode>name</mode>
+  <list>
+    <item>
+      <city id="6545158" name="Rome">
+        <coord lon="12.4958" lat="41.903"/>
+        <country>Italy</country>
+        <sun rise="2015-01-23T06:30:13" set="2015-01-23T16:13:34"/>
+      </city>
+      <temperature value="13" min="13" max="13" unit="celsius"/>
+      <humidity value="100" unit="%"/>
+      <pressure value="1005.76" unit="hPa"/>
+      <wind>
+        <speed value="8.9" name="Fresh Breeze"/>
+        <direction value="4.50272" code="N" name="North"/>
+      </wind>
+      <clouds value="0" name="clear sky"/>
+      <precipitation mode="no"/>
+      <weather number="800" value="Sky is Clear" icon="01n"/>
+      <lastupdate value="2015-01-23T17:46:34" unix="1422035194"/>
+    </item>
+  </list>
+</cities>
+
